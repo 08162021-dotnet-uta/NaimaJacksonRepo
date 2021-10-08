@@ -1,0 +1,15 @@
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.deps.json
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.runtimeconfig.json
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.runtimeconfig.dev.json
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ref\ExcellenceStoreApi.Api.DataModels.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\bin\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.pdb
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.csproj.AssemblyReference.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.AssemblyInfoInputs.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.AssemblyInfo.cs
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ref\ExcellenceStoreApi.Api.DataModels.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.pdb
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.ApiData.Models\obj\Debug\net5.0\ExcellenceStoreApi.Api.DataModels.genruntimeconfig.cache

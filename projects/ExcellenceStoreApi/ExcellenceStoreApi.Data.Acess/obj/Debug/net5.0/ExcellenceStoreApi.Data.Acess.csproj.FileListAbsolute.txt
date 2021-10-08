@@ -1,0 +1,12 @@
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\bin\Debug\net5.0\ExcellenceStoreApi.Data.Acess.deps.json
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\bin\Debug\net5.0\ExcellenceStoreApi.Data.Acess.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\bin\Debug\net5.0\ref\ExcellenceStoreApi.Data.Acess.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\bin\Debug\net5.0\ExcellenceStoreApi.Data.Acess.pdb
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.csproj.AssemblyReference.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.AssemblyInfoInputs.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.AssemblyInfo.cs
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.csproj.CoreCompileInputs.cache
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ref\ExcellenceStoreApi.Data.Acess.dll
+C:\Users\Naima Jackson\source\repos\08162021-dotnet-uta\NaimaJacksonRepo\projects\ExcellenceStoreApi\ExcellenceStoreApi.Data.Acess\obj\Debug\net5.0\ExcellenceStoreApi.Data.Acess.pdb

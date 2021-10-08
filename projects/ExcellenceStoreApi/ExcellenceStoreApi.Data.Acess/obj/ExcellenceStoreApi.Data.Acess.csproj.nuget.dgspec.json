@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Naima Jackson\\source\\repos\\08162021-dotnet-uta\\NaimaJacksonRepo\\projects\\ExcellenceStoreApi\\ExcellenceStoreApi.Data.Acess\\ExcellenceStoreApi.Data.Acess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Naima Jackson\\source\\repos\\08162021-dotnet-uta\\NaimaJacksonRepo\\projects\\ExcellenceStoreApi\\ExcellenceStoreApi.Data.Acess\\ExcellenceStoreApi.Data.Acess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Naima Jackson\\source\\repos\\08162021-dotnet-uta\\NaimaJacksonRepo\\projects\\ExcellenceStoreApi\\ExcellenceStoreApi.Data.Acess\\ExcellenceStoreApi.Data.Acess.csproj",
+        "projectName": "ExcellenceStoreApi.Data.Acess",
+        "projectPath": "C:\\Users\\Naima Jackson\\source\\repos\\08162021-dotnet-uta\\NaimaJacksonRepo\\projects\\ExcellenceStoreApi\\ExcellenceStoreApi.Data.Acess\\ExcellenceStoreApi.Data.Acess.csproj",
+        "packagesPath": "C:\\Users\\Naima Jackson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naima Jackson\\source\\repos\\08162021-dotnet-uta\\NaimaJacksonRepo\\projects\\ExcellenceStoreApi\\ExcellenceStoreApi.Data.Acess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naima Jackson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
